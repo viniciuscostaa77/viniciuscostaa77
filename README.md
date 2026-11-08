@@ -22,7 +22,7 @@
   <br />
 
   <!-- Banner de Perfil -->
-  <img src="./banner.jpg" alt="Vinicius Costa Banner" width="100%" />
+  <img src="./banner.jpeg" alt="Vinicius Costa Banner" width="100%" />
 
   <br /><br />
 
