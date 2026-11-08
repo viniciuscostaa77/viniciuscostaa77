@@ -30,8 +30,8 @@
   <h3>📊 Estatísticas do GitHub</h3>
 
   <p>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuscostaa77&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscostaa77&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=viniciuscostaa77&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscostaa77&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" />
   </p>
 
   <br />
