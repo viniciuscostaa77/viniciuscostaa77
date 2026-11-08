@@ -26,12 +26,12 @@
 
   <br /><br />
 
- <!-- Estatísticas do GitHub -->
+  <!-- Estatísticas do GitHub (Opção 1) -->
   <h3>📊 Estatísticas do GitHub</h3>
 
   <p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=viniciuscostaa77&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscostaa77&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciuscostaa77&theme=2077" alt="Detalhes do Perfil" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciuscostaa77&theme=2077" alt="Linguagens por Repositório" />
   </p>
 
   <br />
